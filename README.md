@@ -15,3 +15,4 @@ go run main.go
 - [Day 02](day02/)
 - [Day 03](day03/)
 - [Day 04](day04/)
+- [Day 05](day05/)
